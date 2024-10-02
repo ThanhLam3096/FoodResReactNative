@@ -9,7 +9,7 @@ const TopToturial = (isIntroduce: any) => {
             <View style={TopTutorialStyle.viewOfImageTop}>
                 <Image source={require('../../img/Tutorial/icon_topTutorial.png')} style={TopTutorialStyle.imageTop} />
             </View>
-            <Text numberOfLines={2} style={TopTutorialStyle.textTop}>FastLang{'\n'}FoodService</Text>
+            <Text numberOfLines={2} style={TopTutorialStyle.textTop}>Tamang{'\n'}FoodService</Text>
         </View>
     )
 }

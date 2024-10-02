@@ -24,10 +24,11 @@ export const TopTutorialStyle = StyleSheet.create({
   },
   textTop: {
     flex: 3,
-    fontSize: 33,
+    fontSize: 37,
     fontWeight: 'bold',
     color: 'black',
     textAlign: 'center',
-    marginLeft: -70
+    marginLeft: -70,
+    height: 200
   }
 });
