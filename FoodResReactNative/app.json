@@ -1,0 +1,14 @@
+{
+  "name": "FoodResReactNative",
+  "displayName": "FoodResReactNative",
+  "plugins": [
+    "expo-font",
+    {
+      "fonts": ["./assets/fonts/yu-gothic-regular.ttf",
+                "./assets/fonts/YuGothB.ttc", 
+                "./assets/fonts/yugothib.ttf", 
+                "./assets/fonts/yugothil.ttf"
+               ]
+    }
+  ]
+}
