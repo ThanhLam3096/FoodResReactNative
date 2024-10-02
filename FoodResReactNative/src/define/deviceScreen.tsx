@@ -1,0 +1,7 @@
+import { Dimensions } from 'react-native';
+
+const deviceWidth = Dimensions.get('window').width
+const deviceHeight = Dimensions.get('window').height
+
+// Export các biến width và height
+export { deviceWidth, deviceHeight };
